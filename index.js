@@ -25,9 +25,9 @@ function nuevos_colores(){
     var newColors = [];
     newColors[0]= parseInt(document.getElementById("hep").value.replace('#','0x'),16);
     newColors[1]= parseInt(document.getElementById("vein").value.replace('#','0x'),16);
-    newColors[2]= parseInt(document.getElementById("sinu").value.replace('#','0x'),16);
-    newColors[3]= parseInt(document.getElementById("f480").value.replace('#','0x'),16);
-    newColors[4]= parseInt(document.getElementById("desmin").value.replace('#','0x'),16);
+    newColors[2]= parseInt(document.getElementById("f480").value.replace('#','0x'),16);
+    newColors[3]= parseInt(document.getElementById("desmin").value.replace('#','0x'),16);
+    newColors[4]= parseInt(document.getElementById("sinu").value.replace('#','0x'),16);
     newColors[5]= parseInt(document.getElementById("nuclei").value.replace('#','0x'),16);
     return newColors;
 }
@@ -48,9 +48,9 @@ function cambioTransparencia(colors,sliders){
 var sliders_trans = [
     document.getElementById("transHep"),
     document.getElementById("transVein"),
-    document.getElementById("transSinu"),
     document.getElementById("transF480"),
     document.getElementById("transDesmin"),
+    document.getElementById("transSinu"),
     document.getElementById("transNuclei"),
 ];
 
