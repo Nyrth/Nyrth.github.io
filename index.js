@@ -15,7 +15,7 @@ function renovarColores(){
     var color_f480= new THREE.MeshLambertMaterial({color: 0x00f7ff});
     var color_desmin= new THREE.MeshLambertMaterial({color: 0xff2f00});
     var color_nuclei= new THREE.MeshLambertMaterial({color: 0x7d7c7a});
-    var colors=[color_hep,color_vein,color_sinu,color_f480,color_desmin, color_nuclei];
+    var colors=[color_hep,color_vein,color_f480,color_desmin,color_sinu, color_nuclei];
     return colors;
 }
 colors= renovarColores();
