@@ -100,16 +100,7 @@ var model_pathList_s1 = [
     './modelos/s1/WebReady_20190729_if_140401_04_id_npc_wbns_nuclei.glb'
 ];
 
-var model_pathList_s4 = [
-    './modelos/s4/WebReady_if_160720_130916_02_npc_st1_wbns_cells.glb',
-    './modelos/s4/WebReady_if_160720_130916_02_npc_st1_wbns_dapi+pha.glb',
-    './modelos/s4/WebReady_if_160720_130916_02_npc_st1_wbns_desmina.glb',
-    './modelos/s4/WebReady_if_160720_130916_02_npc_st1_wbns_f480.glb',
-    './modelos/s4/WebReady_if_160720_130916_02_npc_st1_wbns_flk-1.glb',
-    './modelos/s4/WebReady_if_160720_130916_02_npc_st1_wbns_nuclei.glb'
-];
-
-var model_pathList_s2 =[
+var model_pathList_s2 = [
     './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_cells.glb',
     './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_dapi+pha.glb',
     './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_desmin.glb',
@@ -118,13 +109,22 @@ var model_pathList_s2 =[
     './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_nuclei.glb'
 ];
 
-var model_pathList_s3 = [
-    './modelos/s3/WebReady_if_160720_130916_02_npc_st1_wbns_cells.glb',
-    './modelos/s3/WebReady_if_160720_130916_02_npc_st1_wbns_dapi+pha.glb',
-    './modelos/s3/WebReady_if_160720_130916_02_npc_st1_wbns_desmina.glb',
-    './modelos/s3/WebReady_if_160720_130916_02_npc_st1_wbns_f480.glb',
-    './modelos/s3/WebReady_if_160720_130916_02_npc_st1_wbns_flk-1.glb',
-    './modelos/s3/WebReady_if_160720_130916_02_npc_st1_wbns_nuclei.glb'
+var model_pathList_s3 =[
+    './modelos/s3/WebReady_20190729_if_140401_04_id_npc_wbns_cells.glb',
+    './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_dapi+pha.glb',
+    './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_desmin.glb',
+    './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_f480.glb',
+    './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_flk1.glb',
+    './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_nuclei.glb'
+];
+
+var model_pathList_s4 = [
+    './modelos/s4/WebReady_if_160720_130916_02_npc_st1_wbns_cells.glb',
+    './modelos/s4/WebReady_if_160720_130916_02_npc_st1_wbns_dapi+pha.glb',
+    './modelos/s4/WebReady_if_160720_130916_02_npc_st1_wbns_desmina.glb',
+    './modelos/s4/WebReady_if_160720_130916_02_npc_st1_wbns_f480.glb',
+    './modelos/s4/WebReady_if_160720_130916_02_npc_st1_wbns_flk-1.glb',
+    './modelos/s4/WebReady_if_160720_130916_02_npc_st1_wbns_nuclei.glb'
 ];
 
 var models = [];
