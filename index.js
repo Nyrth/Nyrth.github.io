@@ -104,9 +104,9 @@ var model_pathList_s2 = [
     './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_cells.glb',
     './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_dapi+pha.glb',
     './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_desmin.glb',
-    './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_desmin.glb',
-    './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_desmin.glb',
-    './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_desmin.glb'
+    './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_f480.glb',
+    './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_flk-1.glb',
+    './modelos/s2/WebReady_20190729_if_140401_06_id_npc_2019_08_07__14_47_32_nuclei.glb'
 ];
 
 var model_pathList_s3 =[
@@ -114,7 +114,7 @@ var model_pathList_s3 =[
     './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_dapi+pha.glb',
     './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_desmin.glb',
     './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_f480.glb',
-    './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_f480.glb',
+    './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_flk1.glb',
     './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_nuclei.glb'
 ];
 
