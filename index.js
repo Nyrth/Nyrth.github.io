@@ -110,7 +110,7 @@ var model_pathList_s2 = [
 ];
 
 var model_pathList_s3 =[
-    './modelos/s3/WebReady_20190729_if_140401_04_id_npc_wbns_cells.glb',
+    './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_cells.glb',
     './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_dapi+pha.glb',
     './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_desmin.glb',
     './modelos/s3/WebReady_if_151214_npc_130927_02 wbns_f480.glb',
